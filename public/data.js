@@ -2,7 +2,7 @@ const data = {
     name: "Ayush Gola",
     tagline: "I am a website developer!",
     summary:
-    "I am a visionary, self motivated electronics student with a passion for technology and problem-solving, seeking to transition into the field of Software Engineering. Committed to leveraging my solid foundation in electronics and programming skills to contribute to innovative software solutions and drive advancements in the tech industry.",
+    "I  a visionary, self motivated electronics student with a passion for technology and problem-solving, seeking to transition into the field of Software Engineering. Committed to leveraging my solid foundation in electronics and programming skills to contribute to innovative software solutions and drive advancements in the tech industry.",
     experience: [
         {
             id: "okaya",
