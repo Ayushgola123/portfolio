@@ -67,7 +67,7 @@ const Navbar = () => {
                             </svg>
                         </a>
                         <a
-                            href="/resume.pdf"
+                            href=""
                             className={[styles.button, styles.primary].join(
                                 " "
                             )}
