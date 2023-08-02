@@ -34,7 +34,7 @@ const Navbar = () => {
                 <div className={styles.container}>
                     <div className={styles.logo}>
                         <a href="#">
-                            <img src="/a-logo.svg" alt="logo" />
+                            <img src="/static/aylogo_adobe_express.svg" alt="logo" />
                         </a>
                     </div>
                     <div className={styles.options}>
@@ -67,11 +67,11 @@ const Navbar = () => {
                             </svg>
                         </a>
                         <a
-                            href="/resume.pdf"
+                            href="/static/resume2414_pdf.pdf"
                             className={[styles.button, styles.primary].join(
                                 " "
                             )}
-                            download="resume.pdf"
+                            download="./static/resume2414_pdf.pdf"
                         >
                             Resume
                         </a>
