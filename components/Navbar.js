@@ -34,7 +34,7 @@ const Navbar = () => {
                 <div className={styles.container}>
                     <div className={styles.logo}>
                         <a href="#">
-                            <img src="/static/aylogo_adobe_express.svg" alt="logo" />
+                            <img src="/assets/aylogo_adobe_express.svg" alt="logo" />
                         </a>
                     </div>
                     <div className={styles.options}>
