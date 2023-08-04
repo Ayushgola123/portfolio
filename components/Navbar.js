@@ -71,7 +71,7 @@ const Navbar = () => {
                             className={[styles.button, styles.primary].join(
                                 " "
                             )}
-                            download="./static/resume2414_pdf.pdf"
+                            download="/static/resume2414_pdf.pdf"
                         >
                             Resume
                         </a>
