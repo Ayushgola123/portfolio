@@ -56,20 +56,14 @@ const data = {
                     ],
                     tools: ["HTML", "CSS", "JavaScript"],
                     links: [
-                       /* {
+                       {
                             id: "web",
                             name: "Website",
-                            link: "https://chirag1910.github.io/logicGates/",
+                            link: "https://logicgates-ag.netlify.app/",
                             download: false,
                             icon: "/icon/redirect.webp",
                         },
-                        {
-                            id: "git",
-                            name: "Github",
-                            link: "https://github.com/chirag1910/logicGates",
-                            download: false,
-                            icon: "/icon/github.webp",
-                        },*/
+                       
                     ],
                     features: [
                         "Logic gates as the name suggests, features various gates like OR, NOT, AND, XOR, etc.",
